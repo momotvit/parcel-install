@@ -1,0 +1,23 @@
+{
+  "name": "parcel-install",
+  "version": "1.0.0",
+  "description": "parcel-install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momotvit/parcel-install.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momotvit/parcel-install/issues"
+  },
+  "homepage": "https://github.com/momotvit/parcel-install#readme",
+  "dependencies": {
+    "joi": "^17.8.3",
+    "uuid": "^9.0.0"
+  }
+}
